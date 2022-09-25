@@ -67,7 +67,6 @@ background(237, 34, 93);
     
     
   //The Shape in home mode
-  //Would like to make size random so that it looks like the shape is moving inside a 3D space
   let r = 25;
   fill(255);
   ellipse(x2, y2, r*2, r*2);
